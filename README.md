@@ -31,6 +31,7 @@ summary and human-created reference summaries.
 Other metrics such as BLEU (Bilingual Evaluation Understudy) and METEOR 
 (Metric for Evaluation of Translation with Explicit ORdering) are also used in 
 some cases. 
+
 Applications of text summarization: 
 Text summarization has various practical applications, such as news 
 summarization, document summarization, and social media summarization. 
@@ -44,6 +45,8 @@ approaches are commonly used, each with its strengths and limitations.
 Evaluation of summarization systems relies on metrics like ROUGE, while 
 applications range from news and document summarization to information 
 retrieval and chatbot systems. 
+
+
 Text-Summarization App using NLTK, Spacy using Streamlit
 SPACY: Spacy is an open-source software python library used in advanced 
 natural language processing and machine learning. It will be used to build 
@@ -63,6 +66,7 @@ artificial intelligence(AI).
 There are two main phases to natural language processing: 
 1.data preprocessing 
 2.algorithm development 
+
 Streamlit: It is an open-source Python library that makes it easy to create and 
 share beautiful, custom web apps for machine learning and data science. In just 
 a few minutes you can build and deploy powerful data apps
